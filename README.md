@@ -10,7 +10,7 @@ Express v4.18.2
 Serving HTML
 
 - command
-node index.js
+npx nodemon index.js
 
 - Specify in browser
 http://localhost:3000

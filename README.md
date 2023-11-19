@@ -7,6 +7,8 @@ Node.js v20.9.0
 Express v4.18.2
 
 ## How to display Hello world on Node server
+Serving HTML
+
 - command
 node index.js
 
